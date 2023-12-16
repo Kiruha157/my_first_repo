@@ -11,3 +11,7 @@
 
 # Conflict from LOCAL
 
+# Commit past conflict 1
+
+
+
